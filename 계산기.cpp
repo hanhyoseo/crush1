@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-//modifymodifymodif
+int a = 123;
+
 struct Token {
     char kind;
     double value;
