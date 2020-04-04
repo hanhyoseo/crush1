@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int a = 123;
+
 
 struct Token {
     char kind;
